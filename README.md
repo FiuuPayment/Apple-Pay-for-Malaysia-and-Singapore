@@ -24,7 +24,7 @@ Apple Pay on the Web
    5) Upon success onboarding, you can start making payment using Apple Pay with your integration.
 
 ### Direct Server Integration 
-   - Refer to Enabling Apple Pay section at [Direct Server](https://github.com/RazerMS/Documentation-RazerMS_API_Spec/blob/main/%5BOfficial%5D%20Razer%20Direct%20Server%20API%20v1.6.8.pdf) documentation 
+   - Refer to Enabling Apple Pay section at [Direct Server](https://github.com/FiuuPayment/Documentation-Fiuu_API_Spec/blob/main/%5BOfficial%5D%20Fiuu%20Direct%20Server%20API%20v1.7.7.pdf) documentation 
 
 ### Supported platforms
 |  | Worldwide (except China) | China | 
